@@ -1,4 +1,4 @@
-# DevOpsArea Sample Java App -example
+# DevOpsArea Sample Java App -example - forked by Ahmed Farouk
 Build war with maven and DevOpsArea framework
 
 Steps are the following:
